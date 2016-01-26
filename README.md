@@ -11,6 +11,25 @@ Many Demos are available in the website with Several ROS bags
 #####general and scalable framework for visual SLAM
 https://github.com/strasdat/ScaViSLAM/
 
+
+##### SLAM in unstructed environments
+https://github.com/tu-darmstadt-ros-pkg/hector_slam
+
+#####Dense Visual Odometry and SLAM (dvo_slam)
+https://github.com/tum-vision/dvo_slam
+
+#####Coslam: Collaborative visual slam in dynamic environments
+https://github.com/danping/CoSLAM
+
+#####Real-time dense visual SLAM system  : ElasticFusion
+
+https://github.com/mp3guy/ElasticFusion ...
+it has nice gui and dataset , paper and video too . 
+
+##### Deferred Triangulation SLAM
+Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features . 
+https://github.com/plumonito/dtslam
+
 ## Augmeneted Reality
 
 ##### PTAM (Parallel Tracking and Mapping) :  
@@ -18,6 +37,8 @@ http://www.robots.ox.ac.uk/~gk/PTAM/
 
 ##### PTAM Android : 
 https://github.com/damienfir/android-ptam
+
+
 
 ### Monocular SLAM
 #####ORB-SLAM: A Versatile and Accurate Monocular SLAM System
@@ -37,9 +58,6 @@ https://github.com/pizzoli/rpg_svo
 https://github.com/tum-vision/lsd_slam
 
 
-#####Dense Visual Odometry and SLAM (dvo_slam)
-https://github.com/tum-vision/dvo_slam
-
 ## SFM 
 
 #####Structure from Motion (SfM) for Unordered Image Collections
@@ -55,9 +73,16 @@ https://github.com/danylaksono/Android-SfM-client
 #####Volumetric 3D Mapping in Real-Time on a CPU
 https://github.com/tum-vision/fastfusion
 
+##### Matlab
+with some good documentation to how to read the image and so on from the kinect .
+https://github.com/AutoSLAM/SLAM
+
+
 # follow : 
 ## Robotics and Perception Group
 https://github.com/tum-vision
 
 ## TUM VISION 
 https://github.com/uzh-rpg
+## handheld AR 
+http://studierstube.icg.tugraz.at/handheld_ar/cityofsights.php
