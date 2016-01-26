@@ -30,7 +30,11 @@ it has nice gui and dataset , paper and video too .
 Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features . 
 https://github.com/plumonito/dtslam
 
-## Augmeneted Reality
+
+##### Real-time dense visual SLAM
+https://github.com/mp3guy/Kintinuous
+
+### Augmeneted Reality
 
 ##### PTAM (Parallel Tracking and Mapping) :  
 http://www.robots.ox.ac.uk/~gk/PTAM/
@@ -40,12 +44,17 @@ https://github.com/damienfir/android-ptam
 
 
 
+
 ### Monocular SLAM
 #####ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 https://github.com/raulmur/ORB_SLAM ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
 https://github.com/raulmur/ORB_SLAM2
+
+its modification to work on IOS : 
+https://github.com/Thunderbolt-sx/ORB_SLAM_iOS
+
 #####REMODE (REgularized MOnocular Depth Estimation)
 https://github.com/uzh-rpg/rpg_open_remode ... 
 Probabilistic, Monocular Dense Reconstruction in Real Time
@@ -72,6 +81,10 @@ https://github.com/danylaksono/Android-SfM-client
 
 #####Volumetric 3D Mapping in Real-Time on a CPU
 https://github.com/tum-vision/fastfusion
+
+##### SLAM with IMU on Android
+
+https://github.com/knagara/SLAMwithCameraIMUforAndroid
 
 ##### Matlab
 with some good documentation to how to read the image and so on from the kinect .
