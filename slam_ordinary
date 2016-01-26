@@ -1,6 +1,16 @@
   # non visual SLAM
-  in python 
+  
+##  in python 
+  
   https://github.com/vatsan/slam
   
   
-  maatlab toolbox : https://github.com/damarquezg/SLAMTB
+##  matlab toolbox : 
+  well documented ...
+  
+  https://github.com/damarquezg/SLAMTB
+
+
+## C++
+random finite set
+https://github.com/kykleung/RFS-SLAM
