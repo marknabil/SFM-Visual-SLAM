@@ -13,6 +13,9 @@ https://github.com/strasdat/ScaViSLAM/
 
 ### Monocular SLAM
 
+#####REMODE (REgularized MOnocular Depth Estimation)
+https://github.com/uzh-rpg/rpg_open_remode ... 
+Probabilistic, Monocular Dense Reconstruction in Real Time
 
 ## SFM 
 
