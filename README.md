@@ -26,14 +26,19 @@ https://github.com/danping/CoSLAM
 https://github.com/mp3guy/ElasticFusion ...
 it has nice gui and dataset , paper and video too . 
 
+##### Real-time dense visual SLAM
+https://github.com/mp3guy/Kintinuous
+
 ##### Deferred Triangulation SLAM
 Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features . 
 https://github.com/plumonito/dtslam
 
 
-##### Real-time dense visual SLAM
-https://github.com/mp3guy/Kintinuous
 
+
+#####SceneLib2 - MonoSLAM open-source library
+from oxford university c++ SLAM  
+https://github.com/hanmekim/SceneLib2
 ### Augmeneted Reality
 
 ##### PTAM (Parallel Tracking and Mapping) :  
