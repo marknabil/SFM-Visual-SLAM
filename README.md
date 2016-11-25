@@ -83,6 +83,10 @@ https://github.com/tum-vision/lsd_slam
 ##### Dense Sparse odometry
 https://github.com/JakobEngel/dso
 
+##### monocular odometry algorithm
+https://github.com/alejocb/dpptam
+Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
+
 ## SFM 
 
 #####Structure from Motion (SfM) for Unordered Image Collections
