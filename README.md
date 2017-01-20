@@ -19,6 +19,8 @@ Many Demos are available in the website with Several ROS bags
 #####general and scalable framework for visual SLAM
 https://github.com/strasdat/ScaViSLAM/
 
+https://github.com/felixendres/rgbdslam_v2
+ROS ready, It has PHD thesis from TUM 
 
 ##### SLAM in unstructed environments
 https://github.com/tu-darmstadt-ros-pkg/hector_slam
