@@ -81,6 +81,10 @@ https://github.com/pizzoli/rpg_svo
 #####LSD-SLAM: Large-Scale Direct Monocular SLAM
 https://github.com/tum-vision/lsd_slam
 
+## LIDAR based
+#####LiDAR-based real-time 3D localization and mapping
+https://github.com/erik-nelson/blam
+
 ## Visual Odometry
 ##### Dense Sparse odometry
 https://github.com/JakobEngel/dso
