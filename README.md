@@ -43,6 +43,8 @@ https://github.com/mp3guy/Kintinuous
 Based on PTAM and SLAM track 3d traingulated and 2d non triangulated features . 
 https://github.com/plumonito/dtslam
 
+##### Dense RGBD slam
+https://github.com/dorian3d/RGBiD-SLAM
 
 
 
