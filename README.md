@@ -2,13 +2,9 @@
 
 ## Visual SLAM 
 
-
-
 OKVIS: Open Keyframe-based Visual-Inertial SLAM
 http://ethz-asl.github.io/okvis/index.html
 
-ROVIO: Robust Visual Inertial Odometry
-https://github.com/ethz-asl/rovio
 
 ### RGB-D Visual SLAM
 
@@ -88,6 +84,11 @@ https://github.com/tum-vision/lsd_slam
 https://github.com/erik-nelson/blam
 
 ## Visual Odometry
+
+##### ROVIO
+Robust Visual Inertial Odometry
+https://github.com/ethz-asl/rovio
+
 ##### Dense Sparse odometry
 https://github.com/JakobEngel/dso
 
