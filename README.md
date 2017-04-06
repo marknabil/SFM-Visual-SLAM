@@ -1,4 +1,4 @@
-# SFM-AR-Visual-SLAM
+# SFM-AR-Visual-SLAM ![Awesome]
 
 ## Visual SLAM 
 
@@ -133,3 +133,8 @@ https://github.com/tum-vision
 https://github.com/uzh-rpg
 ## handheld AR 
 http://studierstube.icg.tugraz.at/handheld_ar/cityofsights.php
+
+## Another Curated list
+for SFM, 3D reconstruction and V-SLAM
+https://github.com/openMVG/awesome_3DReconstruction_list
+
