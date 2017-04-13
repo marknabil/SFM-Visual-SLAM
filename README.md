@@ -111,6 +111,21 @@ https://github.com/marknabil/opengv
 concept in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
 
+
+Lorenzo Torresani's Structure from Motion Matlab code
+https://github.com/scivision/em-sfm
+
+OpenMVG C++ library
+https://github.com/openMVG/openMVG
+
+collection of computer vision methods for solving geometric vision problems
+https://github.com/laurentkneip/opengv
+
+#####
+
+Multiview Geometry Library in C++11
+http://theia-sfm.org/
+
 ## Others : 
 
 #####Volumetric 3D Mapping in Real-Time on a CPU
