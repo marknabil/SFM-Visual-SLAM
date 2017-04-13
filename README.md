@@ -100,6 +100,8 @@ Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
 IMU camera calibration toolbox and more.
 https://github.com/ethz-asl/kalibr
 
+Camera-to-IMU calibration toolbox
+https://github.com/hovren/crisp 
 
 ## SFM 
 
