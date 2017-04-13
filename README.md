@@ -8,11 +8,11 @@ http://ethz-asl.github.io/okvis/index.html
 
 ### RGB-D Visual SLAM
 
-#####Real-Time Appearance-Based Mapping
+##### Real-Time Appearance-Based Mapping
 http://wiki.ros.org/rtabmap_ros ...
 Many Demos are available in the website with Several ROS bags
 
-#####general and scalable framework for visual SLAM
+##### general and scalable framework for visual SLAM
 https://github.com/strasdat/ScaViSLAM/
 
 https://github.com/felixendres/rgbdslam_v2
@@ -21,13 +21,13 @@ ROS ready, It has PHD thesis from TUM
 ##### SLAM in unstructed environments
 https://github.com/tu-darmstadt-ros-pkg/hector_slam
 
-#####Dense Visual Odometry and SLAM (dvo_slam)
+##### Dense Visual Odometry and SLAM (dvo_slam)
 https://github.com/tum-vision/dvo_slam
 
-#####Coslam: Collaborative visual slam in dynamic environments
+##### Coslam: Collaborative visual slam in dynamic environments
 https://github.com/danping/CoSLAM
 
-#####Real-time dense visual SLAM system  : ElasticFusion
+##### Real-time dense visual SLAM system  : ElasticFusion
 
 https://github.com/mp3guy/ElasticFusion ...
 it has nice gui and dataset , paper and video too . 
@@ -43,10 +43,11 @@ https://github.com/plumonito/dtslam
 https://github.com/dorian3d/RGBiD-SLAM
 
 
-
-#####SceneLib2 - MonoSLAM open-source library
+##### SceneLib2 - MonoSLAM open-source library
 from oxford university c++ SLAM  
 https://github.com/hanmekim/SceneLib2
+
+
 ### Augmeneted Reality
 
 ##### PTAM (Parallel Tracking and Mapping) :  
@@ -54,8 +55,6 @@ http://www.robots.ox.ac.uk/~gk/PTAM/
 
 ##### PTAM Android : 
 https://github.com/damienfir/android-ptam
-
-
 
 
 ### Monocular SLAM
@@ -75,9 +74,10 @@ Probabilistic, Monocular Dense Reconstruction in Real Time
 #####Fast Semi-Direct Monocular Visual Odometry
 https://github.com/pizzoli/rpg_svo
 
-
 #####LSD-SLAM: Large-Scale Direct Monocular SLAM
 https://github.com/tum-vision/lsd_slam
+
+
 
 ## LIDAR based
 #####LiDAR-based real-time 3D localization and mapping
@@ -95,6 +95,11 @@ https://github.com/JakobEngel/dso
 ##### monocular odometry algorithm
 https://github.com/alejocb/dpptam
 Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
+
+##### Kalibr
+IMU camera calibration toolbox and more.
+https://github.com/ethz-asl/kalibr
+
 
 ## SFM 
 
