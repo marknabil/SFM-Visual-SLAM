@@ -48,7 +48,7 @@ from oxford university c++ SLAM
 https://github.com/hanmekim/SceneLib2
 
 
-### Augmeneted Reality
+### Augmented Reality
 
 ##### PTAM (Parallel Tracking and Mapping) :  
 http://www.robots.ox.ac.uk/~gk/PTAM/
