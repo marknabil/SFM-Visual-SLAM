@@ -58,7 +58,7 @@ https://github.com/damienfir/android-ptam
 
 
 ### Monocular SLAM
-#####ORB-SLAM: A Versatile and Accurate Monocular SLAM System
+##### ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 https://github.com/raulmur/ORB_SLAM ....
 
 its modification : ORB-SLAM2 is a real-time SLAM library for Monocular, Stereo and RGB-D cameras
@@ -67,20 +67,20 @@ https://github.com/raulmur/ORB_SLAM2
 its modification to work on IOS : 
 https://github.com/Thunderbolt-sx/ORB_SLAM_iOS
 
-#####REMODE (REgularized MOnocular Depth Estimation)
+##### REMODE (REgularized MOnocular Depth Estimation)
 https://github.com/uzh-rpg/rpg_open_remode ... 
 Probabilistic, Monocular Dense Reconstruction in Real Time
 
-#####Fast Semi-Direct Monocular Visual Odometry
+##### Fast Semi-Direct Monocular Visual Odometry
 https://github.com/pizzoli/rpg_svo
 
-#####LSD-SLAM: Large-Scale Direct Monocular SLAM
+##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 https://github.com/tum-vision/lsd_slam
 
 
 
 ## LIDAR based
-#####LiDAR-based real-time 3D localization and mapping
+##### LiDAR-based real-time 3D localization and mapping
 https://github.com/erik-nelson/blam
 
 ## Visual Odometry
@@ -105,19 +105,27 @@ https://github.com/hovren/crisp
 
 ## SFM 
 
-#####Structure from Motion (SfM) for Unordered Image Collections
-
+##### Structure from Motion (SfM) for Unordered Image Collections
 https://github.com/TheFrenchLeaf/Bundle
 
 ##### Android SFM
 https://github.com/danylaksono/Android-SfM-client
+
 ##### Five Point , 6,7,8 algorithms
 open geometrical vision
 https://github.com/marknabil/opengv
 
+##### openSFM
+Structure from Motion library written in Python on top of OpenCV. It has dockerfile for all installation on ubuntu 14.04
+https://github.com/mapillary/OpenSfM
+
+##### Unsupervised Learning of Depth and Ego-Motion from Video
+An unsupervised learning framework for depth and ego-motion estimation from monocular videos 
+https://github.com/tinghuiz/SfMLearner
+
+
 concept in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
-
 
 Lorenzo Torresani's Structure from Motion Matlab code
 https://github.com/scivision/em-sfm
