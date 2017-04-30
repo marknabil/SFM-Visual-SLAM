@@ -126,6 +126,11 @@ An unsupervised learning framework for depth and ego-motion estimation from mono
 https://github.com/tinghuiz/SfMLearner
 
 
+https://github.com/mleotta/cvpr2015-opensfm
+
+https://github.com/vrabaud/sfm_toolbox
+
+
 concept in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
 
