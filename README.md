@@ -50,7 +50,7 @@ https://github.com/hanmekim/SceneLib2
 ##### next best view planner
 https://github.com/ethz-asl/nbvplanner
 
-### Augmeneted Reality
+### Augmented Reality
 
 ##### PTAM (Parallel Tracking and Mapping) :  
 http://www.robots.ox.ac.uk/~gk/PTAM/
