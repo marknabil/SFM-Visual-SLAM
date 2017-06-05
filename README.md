@@ -5,6 +5,8 @@
 OKVIS: Open Keyframe-based Visual-Inertial SLAM
 http://ethz-asl.github.io/okvis/index.html
 
+Uncertainty-aware Receding Horizon Exploration and Mapping Planner
+https://github.com/unr-arl/rhem_planner
 
 ### RGB-D Visual SLAM
 
@@ -60,6 +62,7 @@ https://github.com/damienfir/android-ptam
 
 
 ### Monocular SLAM
+
 ##### ORB-SLAM: A Versatile and Accurate Monocular SLAM System
 https://github.com/raulmur/ORB_SLAM ....
 
@@ -82,6 +85,7 @@ https://github.com/tum-vision/lsd_slam
 
 
 ## LIDAR based
+
 ##### LiDAR-based real-time 3D localization and mapping
 https://github.com/erik-nelson/blam
 
