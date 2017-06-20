@@ -10,6 +10,10 @@ https://github.com/unr-arl/rhem_planner
 
 ### RGB-D Visual SLAM
 
+##### Fast Odometry and Scene Flow from RGB-D Cameras 
+https://github.com/MarianoJT88/Joint-VO-SF
+was published in ICRA 2017
+
 ##### Real-Time Appearance-Based Mapping
 http://wiki.ros.org/rtabmap_ros ...
 Many Demos are available in the website with Several ROS bags
