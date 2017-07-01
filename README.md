@@ -86,6 +86,8 @@ https://github.com/pizzoli/rpg_svo
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 https://github.com/tum-vision/lsd_slam
 
+##### A Robust and Versatile Monocular Visual-Inertial State Estimator
+https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 
 
 ## LIDAR based
@@ -164,6 +166,9 @@ https://github.com/tum-vision/fastfusion
 ##### SLAM with IMU on Android
 
 https://github.com/knagara/SLAMwithCameraIMUforAndroid
+
+##### IOS iphone 7 plus
+https://github.com/HKUST-Aerial-Robotics/VINS-Mobile
 
 ##### Matlab
 with some good documentation to how to read the image and so on from the kinect .
