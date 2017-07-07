@@ -8,6 +8,9 @@ http://ethz-asl.github.io/okvis/index.html
 Uncertainty-aware Receding Horizon Exploration and Mapping Planner
 https://github.com/unr-arl/rhem_planner
 
+##### S-PTAM: Stereo Parallel Tracking and Mapping
+https://github.com/lrse/sptam
+
 ### RGB-D Visual SLAM
 
 ##### Fast Odometry and Scene Flow from RGB-D Cameras 
