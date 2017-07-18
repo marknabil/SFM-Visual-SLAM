@@ -11,6 +11,14 @@ https://github.com/unr-arl/rhem_planner
 ##### S-PTAM: Stereo Parallel Tracking and Mapping
 https://github.com/lrse/sptam
 
+##### FAB-MAP
+visual place recognition algorithm
+https://github.com/arrenglover/openfabmap
+
+##### rat-SLAM
+https://github.com/davidmball/ratslam
+
+
 ### RGB-D Visual SLAM
 
 ##### Fast Odometry and Scene Flow from RGB-D Cameras 
