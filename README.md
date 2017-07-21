@@ -11,6 +11,11 @@ https://github.com/unr-arl/rhem_planner
 ##### S-PTAM: Stereo Parallel Tracking and Mapping
 https://github.com/lrse/sptam
 
+##### mcptam
+MCPTAM is a set of ROS nodes for running Real-time 3D Visual Simultaneous Localization and Mapping (SLAM) using Multi-Camera Clusters. It includes tools for calibrating both the intrinsic and extrinsic parameters of the individual cameras within the rigid camera rig.
+
+https://github.com/aharmat/mcptam
+
 ##### FAB-MAP
 visual place recognition algorithm
 https://github.com/arrenglover/openfabmap
