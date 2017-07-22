@@ -111,6 +111,11 @@ https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 ##### LiDAR-based real-time 3D localization and mapping
 https://github.com/erik-nelson/blam
 
+##### segmatch
+https://github.com/ethz-asl/segmatch
+A 3D segment based loop-closure algorithm | ROS ready
+
+
 ## Visual Odometry
 
 ##### ROVIO
