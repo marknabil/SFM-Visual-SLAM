@@ -99,6 +99,10 @@ Probabilistic, Monocular Dense Reconstruction in Real Time
 ##### Fast Semi-Direct Monocular Visual Odometry
 https://github.com/pizzoli/rpg_svo
 
+##### Fast Semi-Direct Visual Odometry for Monocular, Wide Angle, and Multi-camera Systems
+no loop closure or bundle adjustment 
+http://rpg.ifi.uzh.ch/svo2.html
+
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 https://github.com/tum-vision/lsd_slam
 
@@ -194,6 +198,13 @@ https://github.com/HKUST-Aerial-Robotics/VINS-Mobile
 ##### Matlab
 with some good documentation to how to read the image and so on from the kinect .
 https://github.com/AutoSLAM/SLAM
+
+# Dataset
+##### EuRoC MAV Dataset
+http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+
+visual-inertial datasets collected on-board a Micro Aerial Vehicle (MAV). The datasets contain stereo images, synchronized IMU measurements, and accurate motion and structure ground-truth.
+
 
 
 # follow : 
