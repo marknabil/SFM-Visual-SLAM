@@ -64,6 +64,9 @@ https://github.com/plumonito/dtslam
 ##### Dense RGBD slam
 https://github.com/dorian3d/RGBiD-SLAM
 
+##### M2SLAM: Visual SLAM with Memory Management for large-scale Environments
+https://github.com/lifunudt/M2SLAM
+
 
 ##### SceneLib2 - MonoSLAM open-source library
 from oxford university c++ SLAM  
