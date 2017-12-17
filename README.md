@@ -116,6 +116,9 @@ https://github.com/tum-vision/lsd_slam
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 
+##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+
+https://github.com/KumarRobotics/msckf_vio
 
 ## LIDAR based
 
