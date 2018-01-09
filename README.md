@@ -2,10 +2,10 @@
 
 ## Visual SLAM 
 
-OKVIS: Open Keyframe-based Visual-Inertial SLAM
+##### OKVIS: Open Keyframe-based Visual-Inertial SLAM
 http://ethz-asl.github.io/okvis/index.html
 
-Uncertainty-aware Receding Horizon Exploration and Mapping Planner
+##### Uncertainty-aware Receding Horizon Exploration and Mapping Planner
 https://github.com/unr-arl/rhem_planner
 
 ##### S-PTAM: Stereo Parallel Tracking and Mapping
@@ -71,13 +71,13 @@ https://github.com/dorian3d/RGBiD-SLAM
 ##### M2SLAM: Visual SLAM with Memory Management for large-scale Environments
 https://github.com/lifunudt/M2SLAM
 
-
 ##### SceneLib2 - MonoSLAM open-source library
 from oxford university c++ SLAM  
 https://github.com/hanmekim/SceneLib2
 
 ##### next best view planner
 https://github.com/ethz-asl/nbvplanner
+
 
 ### Augmented Reality
 
@@ -113,12 +113,8 @@ http://rpg.ifi.uzh.ch/svo2.html
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 https://github.com/tum-vision/lsd_slam
 
-##### A Robust and Versatile Monocular Visual-Inertial State Estimator
-https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 
-##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
-https://github.com/KumarRobotics/msckf_vio
 
 ## LIDAR based
 
@@ -143,12 +139,22 @@ https://github.com/JakobEngel/dso
 https://github.com/alejocb/dpptam
 Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
 
+### Visual Inertial odometry
+
 ##### Kalibr
+
 IMU camera calibration toolbox and more.
 https://github.com/ethz-asl/kalibr
 
 Camera-to-IMU calibration toolbox
 https://github.com/hovren/crisp 
+
+##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+
+https://github.com/KumarRobotics/msckf_vio
+
+##### A Robust and Versatile Monocular Visual-Inertial State Estimator
+https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 
 ## SFM 
 
