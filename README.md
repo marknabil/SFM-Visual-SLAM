@@ -42,7 +42,7 @@ Many Demos are available in the website with Several ROS bags
 https://github.com/strasdat/ScaViSLAM/
 
 https://github.com/felixendres/rgbdslam_v2
-ROS ready, It has PHD thesis from TUM 
+ROS ready, It accompany a PHD thesis from TUM 
 
 ##### SLAM in unstructed environments
 https://github.com/tu-darmstadt-ros-pkg/hector_slam
@@ -128,10 +128,6 @@ A 3D segment based loop-closure algorithm | ROS ready
 
 ## Visual Odometry
 
-##### ROVIO
-Robust Visual Inertial Odometry
-https://github.com/ethz-asl/rovio
-
 ##### Dense Sparse odometry
 https://github.com/JakobEngel/dso
 
@@ -149,12 +145,17 @@ https://github.com/ethz-asl/kalibr
 Camera-to-IMU calibration toolbox
 https://github.com/hovren/crisp 
 
+##### ROVIO
+Robust Visual Inertial Odometry
+https://github.com/ethz-asl/rovio
+
 ##### Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
 
 https://github.com/KumarRobotics/msckf_vio
 
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 https://github.com/HKUST-Aerial-Robotics/VINS-Mono
+
 
 ## SFM 
 
@@ -177,16 +178,18 @@ An unsupervised learning framework for depth and ego-motion estimation from mono
 https://github.com/tinghuiz/SfMLearner
 
 
+Source material for the CVPR 2015 Tutorial: Open Source Structure-from-Motion
 https://github.com/mleotta/cvpr2015-opensfm
 
-https://github.com/vrabaud/sfm_toolbox
 
 
-concept in matlab 
+concepts in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
 
 Lorenzo Torresani's Structure from Motion Matlab code
 https://github.com/scivision/em-sfm
+
+https://github.com/vrabaud/sfm_toolbox
 
 OpenMVG C++ library
 https://github.com/openMVG/openMVG
