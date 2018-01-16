@@ -113,7 +113,9 @@ http://rpg.ifi.uzh.ch/svo2.html
 ##### LSD-SLAM: Large-Scale Direct Monocular SLAM
 https://github.com/tum-vision/lsd_slam
 
-
+modification over the original package to work with rolling chatter camera ( cheap webcams)
+https://github.com/FirefoxMetzger/lsd_slam
+The change is mentioned in this video : https://www.youtube.com/watch?v=TZRICW6R24o
 
 
 ## LIDAR based
