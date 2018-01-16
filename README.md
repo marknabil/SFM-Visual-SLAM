@@ -204,6 +204,15 @@ https://github.com/laurentkneip/opengv
 Multiview Geometry Library in C++11
 http://theia-sfm.org/
 
+
+##### Quaternion Based Camera Pose Estimation From Matched Feature Points
+https://sites.google.com/view/kavehfathian/code
+its paper : https://arxiv.org/pdf/1704.02672.pdf
+
+##### Benchmarking Pose Estimation Algorithms
+https://sites.google.com/view/kavehfathian/code/benchmarking-pose-estimation-algorithms
+
+
 ## Others : 
 
 #####Volumetric 3D Mapping in Real-Time on a CPU
