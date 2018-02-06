@@ -118,6 +118,9 @@ modification over the original package to work with rolling chatter camera ( che
 https://github.com/FirefoxMetzger/lsd_slam
 The change is mentioned in this video : https://www.youtube.com/watch?v=TZRICW6R24o
 
+##### ROS wrapper for visolib 
+https://github.com/srv/viso2
+It is supported till ROS-indigo.
 
 ## LIDAR based
 
