@@ -243,6 +243,12 @@ visual-inertial datasets collected on-board a Micro Aerial Vehicle (MAV). The da
 https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
 benchmarking RGB-D, Visual Odometry and SLAM algorithms
 
+# Survey papers and articles 
+
+[SLAM past present and future](https://arxiv.org/pdf/1606.05830.pdf) 
+
+[Imperial college ICCV 2015 workshop](http://wp.doc.ic.ac.uk/thefutureofslam/)
+
 
 # follow : 
 ## Robotics and Perception Group
