@@ -243,12 +243,21 @@ visual-inertial datasets collected on-board a Micro Aerial Vehicle (MAV). The da
 https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
 benchmarking RGB-D, Visual Odometry and SLAM algorithms
 
+# Machine Learning/ Deep learning based
+
+[Learning monocular visual odometry with dense 3D mapping from dense 3D flow
+](https://arxiv.org/abs/1803.02286)
+
+[DeepVO: A Deep Learning approach for Monocular Visual Odometry
+](https://arxiv.org/abs/1611.06069)
+
 # Survey papers and articles 
 
 [SLAM past present and future](https://arxiv.org/pdf/1606.05830.pdf) 
 
 [Imperial college ICCV 2015 workshop](http://wp.doc.ic.ac.uk/thefutureofslam/)
 
+[Deep Auxiliary Learning for Visual Localization and Odometry](http://ais.informatik.uni-freiburg.de/publications/papers/valada18icra.pdf)
 
 # follow : 
 ## Robotics and Perception Group
