@@ -27,13 +27,13 @@ https://github.com/davidmball/ratslam
 ##### maplab
 An Open Framework for Research in Visual-inertial Mapping and Localization
 https://github.com/ethz-asl/maplab
-
+from Roland Siegwart
 
 ### RGB-D Visual SLAM
 
 ##### Fast Odometry and Scene Flow from RGB-D Cameras 
 https://github.com/MarianoJT88/Joint-VO-SF
-was published in ICRA 2017
+published in ICRA 2017
 
 ##### Real-Time Appearance-Based Mapping
 http://wiki.ros.org/rtabmap_ros ...
