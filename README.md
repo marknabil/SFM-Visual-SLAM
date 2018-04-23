@@ -243,9 +243,19 @@ http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
 visual-inertial datasets collected on-board a Micro Aerial Vehicle (MAV). The datasets contain stereo images, synchronized IMU measurements, and accurate motion and structure ground-truth.
 
+##### TUM VI Benchmark for Evaluating Visual-Inertial Odometry
+https://vision.in.tum.de/data/datasets/visual-inertial-dataset
+different scenes for evaluating VI odometry
+
+##### challenging Visual Inertial Odometry benchmark
+https://daniilidis-group.github.io/penncosyvio/
+from Pennsylvania, published in ICRA2017
+
 ##### ICL NIUM
 https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
 benchmarking RGB-D, Visual Odometry and SLAM algorithms
+
+![alt text](https://github.com/marknabil/SFM-Visual-SLAM/blob/master/vi_table.png)
 
 # Machine Learning/ Deep learning based
 
