@@ -29,6 +29,7 @@ An Open Framework for Research in Visual-inertial Mapping and Localization
 https://github.com/ethz-asl/maplab
 from Roland Siegwart
 
+
 ### RGB-D Visual SLAM
 
 ##### Fast Odometry and Scene Flow from RGB-D Cameras 
@@ -78,6 +79,7 @@ https://github.com/hanmekim/SceneLib2
 
 ##### next best view planner
 https://github.com/ethz-asl/nbvplanner
+
 
 
 ### Augmented Reality
@@ -188,9 +190,9 @@ An unsupervised learning framework for depth and ego-motion estimation from mono
 https://github.com/tinghuiz/SfMLearner
 
 
+#####  CVPR 2015 Tutorial for open source SFM
 Source material for the CVPR 2015 Tutorial: Open Source Structure-from-Motion
 https://github.com/mleotta/cvpr2015-opensfm
-
 
 
 concepts in matlab 
@@ -207,18 +209,15 @@ https://github.com/openMVG/openMVG
 collection of computer vision methods for solving geometric vision problems
 https://github.com/laurentkneip/opengv
 
+
 #####
 
 Multiview Geometry Library in C++11
 http://theia-sfm.org/
 
-
 ##### Quaternion Based Camera Pose Estimation From Matched Feature Points
 https://sites.google.com/view/kavehfathian/code
 its paper : https://arxiv.org/pdf/1704.02672.pdf
-
-##### Benchmarking Pose Estimation Algorithms
-https://sites.google.com/view/kavehfathian/code/benchmarking-pose-estimation-algorithms
 
 
 ## Others : 
@@ -237,7 +236,9 @@ https://github.com/HKUST-Aerial-Robotics/VINS-Mobile
 with some good documentation to how to read the image and so on from the kinect .
 https://github.com/AutoSLAM/SLAM
 
-# Dataset
+
+
+# Datasets and benchmarking
 ##### EuRoC MAV Dataset
 http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
@@ -254,6 +255,10 @@ from Pennsylvania, published in ICRA2017
 ##### ICL NIUM
 https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html
 benchmarking RGB-D, Visual Odometry and SLAM algorithms
+
+##### Benchmarking Pose Estimation Algorithms
+https://sites.google.com/view/kavehfathian/code/benchmarking-pose-estimation-algorithms
+
 
 ![alt text](https://github.com/marknabil/SFM-Visual-SLAM/blob/master/vi_table.png)
 
