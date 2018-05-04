@@ -195,6 +195,10 @@ Source material for the CVPR 2015 Tutorial: Open Source Structure-from-Motion
 https://github.com/mleotta/cvpr2015-opensfm
 
 
+##### Unsupervised Learning of Depth and Ego-Motion from Video
+https://github.com/tinghuiz/SfMLearner
+
+
 concepts in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
 
