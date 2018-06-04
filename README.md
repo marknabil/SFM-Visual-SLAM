@@ -124,6 +124,12 @@ The change is mentioned in this video : https://www.youtube.com/watch?v=TZRICW6R
 https://github.com/srv/viso2
 It is supported till ROS-indigo.
 
+##### Visual-Inertia-fusion-based Monocular dEnse mAppiNg
+https://github.com/HKUST-Aerial-Robotics/VI-MEAN
+with paper and video ICRA 2017.
+
+
+
 ## LIDAR based
 
 ##### LiDAR-based real-time 3D localization and mapping
