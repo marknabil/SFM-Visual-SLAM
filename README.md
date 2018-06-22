@@ -149,6 +149,11 @@ https://github.com/JakobEngel/dso
 https://github.com/alejocb/dpptam
 Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
 
+##### Stereo Visual odometry
+https://github.com/rubengooj/StVO-PL
+Stereo Visual Odometry by combining point and line segment features
+
+
 ### Visual Inertial odometry
 
 ##### Kalibr
