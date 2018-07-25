@@ -213,6 +213,9 @@ https://github.com/tinghuiz/SfMLearner
 concepts in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
 
+SFMedu: A Matlab-based Structure-from-Motion System for Education
+https://github.com/jianxiongxiao/SFMedu
+
 Lorenzo Torresani's Structure from Motion Matlab code
 https://github.com/scivision/em-sfm
 
