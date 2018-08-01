@@ -132,6 +132,11 @@ with paper and video ICRA 2017.
 
 ## LIDAR based
 
+##### LIMO: Lidar-Monocular Visual Odometry
+https://github.com/johannes-graeter/limo
+Virtual machine with all the dependencies is ready.
+
+
 ##### LiDAR-based real-time 3D localization and mapping
 https://github.com/erik-nelson/blam
 
