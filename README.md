@@ -158,6 +158,9 @@ Dense Piecewise Planar Tracking and Mapping  from a Monocular Sequence IROS 2015
 https://github.com/rubengooj/StVO-PL
 Stereo Visual Odometry by combining point and line segment features
 
+##### Monocular Motion Estimation on Manifolds
+https://github.com/johannes-graeter/momo
+
 
 ### Visual Inertial odometry
 
