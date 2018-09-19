@@ -13,3 +13,13 @@ https://github.com/introlab/rtabmap
 https://research.cc.gatech.edu/borg/download?destination=node%2F299
 using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.
 and matlab also included in it 
+
+##### Gmapping ROS
+
+##### Google cartographer
+
+##### Hector SLAM
+
+## Comparisons
+###### video comparing Cartographer, Hector SLAM and GMapping SLAM
+https://www.youtube.com/watch?v=7iM2ynZEuf0
