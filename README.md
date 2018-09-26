@@ -136,7 +136,6 @@ with paper and video ICRA 2017.
 https://github.com/johannes-graeter/limo
 Virtual machine with all the dependencies is ready.
 
-
 ##### LiDAR-based real-time 3D localization and mapping
 https://github.com/erik-nelson/blam
 
@@ -218,7 +217,7 @@ https://github.com/mleotta/cvpr2015-opensfm
 https://github.com/tinghuiz/SfMLearner
 
 
-concepts in matlab 
+## concepts in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
 
 SFMedu: A Matlab-based Structure-from-Motion System for Education
@@ -236,9 +235,7 @@ collection of computer vision methods for solving geometric vision problems
 https://github.com/laurentkneip/opengv
 
 
-#####
-
-Multiview Geometry Library in C++11
+##### Multiview Geometry Library in C++11
 http://theia-sfm.org/
 
 ##### Quaternion Based Camera Pose Estimation From Matched Feature Points
@@ -248,7 +245,7 @@ its paper : https://arxiv.org/pdf/1704.02672.pdf
 
 ## Others : 
 
-#####Volumetric 3D Mapping in Real-Time on a CPU
+##### Volumetric 3D Mapping in Real-Time on a CPU
 https://github.com/tum-vision/fastfusion
 
 ##### SLAM with IMU on Android
@@ -297,6 +294,7 @@ https://sites.google.com/view/kavehfathian/code/benchmarking-pose-estimation-alg
 ](https://arxiv.org/abs/1611.06069)
 
 # Survey papers and articles 
+[RGBD ROS SLAM comparison](https://www.researchgate.net/publication/321895908_Experimental_evaluation_of_ROS_compatible_SLAM_algorithms_for_RGB-D_sensors)
 
 [SLAM past present and future](https://arxiv.org/pdf/1606.05830.pdf) 
 
