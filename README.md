@@ -128,6 +128,8 @@ It is supported till ROS-indigo.
 https://github.com/HKUST-Aerial-Robotics/VI-MEAN
 with paper and video ICRA 2017.
 
+##### monocular object pose SLAM
+https://github.com/shichaoy/cube_slam
 
 
 ## LIDAR based
