@@ -287,6 +287,10 @@ https://sites.google.com/view/kavehfathian/code/benchmarking-pose-estimation-alg
 
 ![alt text](https://github.com/marknabil/SFM-Visual-SLAM/blob/master/vi_table.png)
 
+##### Toolbox for quantitative trajectory evaluation of VO/VIO
+https://github.com/uzh-rpg/rpg_trajectory_evaluation
+
+
 # Machine Learning/ Deep learning based
 
 [Learning monocular visual odometry with dense 3D mapping from dense 3D flow
