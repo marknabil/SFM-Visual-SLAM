@@ -188,6 +188,10 @@ https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 https://github.com/JuanTarrio/rebvo
 Specially targetted to embedded hardware.
 
+##### robocentric visual-inertial odometry
+https://github.com/rpng/R-VIO
+Monocular camera + 6 DOF IMU 
+
 
 ## SFM 
 
