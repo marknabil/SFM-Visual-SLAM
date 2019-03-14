@@ -80,6 +80,9 @@ https://github.com/hanmekim/SceneLib2
 ##### next best view planner
 https://github.com/ethz-asl/nbvplanner
 
+##### Dynamic RGB-D Encoder SLAM for a Differential-Drive Robot
+https://github.com/ydsf16/dre_slam
+ROS kinetic, openCV 4.0, yolo v3, Ceres
 
 
 ### Augmented Reality
