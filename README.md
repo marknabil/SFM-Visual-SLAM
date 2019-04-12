@@ -297,6 +297,9 @@ https://sites.google.com/view/kavehfathian/code/benchmarking-pose-estimation-alg
 ##### Toolbox for quantitative trajectory evaluation of VO/VIO
 https://github.com/uzh-rpg/rpg_trajectory_evaluation
 
+##### Photorealistic Simulator for VIO testing/benchmarking
+https://github.com/mit-fast/FlightGoggles
+
 
 # Machine Learning/ Deep learning based
 
