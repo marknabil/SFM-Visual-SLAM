@@ -271,6 +271,9 @@ https://github.com/AutoSLAM/SLAM
 
 
 # Datasets and benchmarking
+## Curated List of datasets: 
+https://github.com/youngguncho/awesome-slam-datasets
+
 ##### EuRoC MAV Dataset
 http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
 
