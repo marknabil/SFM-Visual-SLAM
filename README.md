@@ -283,6 +283,9 @@ visual-inertial datasets collected on-board a Micro Aerial Vehicle (MAV). The da
 https://vision.in.tum.de/data/datasets/visual-inertial-dataset
 different scenes for evaluating VI odometry
 
+##### Authentic Dataset for Visual-Inertial Odometry
+https://github.com/AaltoVision/ADVIO
+
 ##### challenging Visual Inertial Odometry benchmark
 https://daniilidis-group.github.io/penncosyvio/
 from Pennsylvania, published in ICRA2017
