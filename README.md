@@ -29,6 +29,9 @@ An Open Framework for Research in Visual-inertial Mapping and Localization
 https://github.com/ethz-asl/maplab
 from Roland Siegwart
 
+##### OpenVSLAM: Versatile Visual SLAM Framework
+https://github.com/xdspacelab/openvslam
+
 
 ### RGB-D Visual SLAM
 
