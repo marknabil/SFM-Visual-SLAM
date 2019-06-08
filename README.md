@@ -32,6 +32,10 @@ from Roland Siegwart
 ##### OpenVSLAM: Versatile Visual SLAM Framework
 https://github.com/xdspacelab/openvslam
 
+##### SLAM with Apriltag
+https://github.com/berndpfrommer/tagslam
+ROS ready, bag file available
+
 
 ### RGB-D Visual SLAM
 
