@@ -36,6 +36,9 @@ https://github.com/xdspacelab/openvslam
 https://github.com/berndpfrommer/tagslam
 ROS ready, bag file available
 
+##### SE2 SLAM fusing odom and Vision
+https://github.com/izhengfan/se2clam
+
 
 ### RGB-D Visual SLAM
 
