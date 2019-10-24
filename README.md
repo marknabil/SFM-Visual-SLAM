@@ -197,6 +197,9 @@ https://github.com/KumarRobotics/msckf_vio
 ##### A Robust and Versatile Monocular Visual-Inertial State Estimator
 https://github.com/HKUST-Aerial-Robotics/VINS-Mono
 
+##### VINS modification for omnidirectional + Streo camera 
+https://github.com/gaowenliang/vins_so
+
 ##### Realtime Edge Based Inertial Visual Odometry for a Monocular Camera
 https://github.com/JuanTarrio/rebvo
 Specially targetted to embedded hardware.
