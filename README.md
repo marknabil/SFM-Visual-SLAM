@@ -329,6 +329,9 @@ https://github.com/mit-fast/FlightGoggles
 ](https://arxiv.org/abs/1611.06069)
 
 # Survey papers and articles 
+
+[Survey with year,sensor used and best practice](https://nbviewer.jupyter.org/github/kafendt/List-of-SLAM-VO-algorithms/blob/master/SLAM_table.pdf)
+
 [RGBD ROS SLAM comparison](https://www.researchgate.net/publication/321895908_Experimental_evaluation_of_ROS_compatible_SLAM_algorithms_for_RGB-D_sensors)
 
 [SLAM past present and future](https://arxiv.org/pdf/1606.05830.pdf) 
