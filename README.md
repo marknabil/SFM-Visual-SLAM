@@ -175,6 +175,8 @@ Stereo Visual Odometry by combining point and line segment features
 ##### Monocular Motion Estimation on Manifolds
 https://github.com/johannes-graeter/momo
 
+##### Visual Odometry Revisited: What Should Be Learnt?
+paper + pytorch code: https://github.com/Huangying-Zhan/DF-VO
 
 ### Visual Inertial odometry
 
