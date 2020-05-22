@@ -3,6 +3,10 @@
 
 ## Visual SLAM 
 
+##### GSLAM
+General SLAM Framework which supports feature based or direct method and different sensors including monocular camera, RGB-D sensors or any other input types can be handled.
+https://github.com/zdzhaoyong/GSLAM
+
 ##### OKVIS: Open Keyframe-based Visual-Inertial SLAM
 http://ethz-asl.github.io/okvis/index.html
 
