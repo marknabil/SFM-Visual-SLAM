@@ -270,11 +270,16 @@ http://theia-sfm.org/
 https://sites.google.com/view/kavehfathian/code
 its paper : https://arxiv.org/pdf/1704.02672.pdf
 
+## Mapping
+##### Direct Sparse Mapping 
+https://github.com/jzubizarreta/dsm
 
-## Others : 
 
 ##### Volumetric 3D Mapping in Real-Time on a CPU
 https://github.com/tum-vision/fastfusion
+
+
+## Others : 
 
 ##### SLAM with IMU on Android
 
