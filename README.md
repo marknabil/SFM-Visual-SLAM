@@ -143,7 +143,7 @@ It is supported till ROS-indigo.
 
 ##### Visual-Inertia-fusion-based Monocular dEnse mAppiNg
 https://github.com/HKUST-Aerial-Robotics/VI-MEAN
-with paper and video ICRA 2017.
+with paper and video ICRA 2017 , rosbag as well.
 
 ##### monocular object pose SLAM
 https://github.com/shichaoy/cube_slam
