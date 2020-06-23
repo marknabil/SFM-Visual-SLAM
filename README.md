@@ -182,6 +182,9 @@ https://github.com/johannes-graeter/momo
 ##### Visual Odometry Revisited: What Should Be Learnt?
 paper + pytorch code: https://github.com/Huangying-Zhan/DF-VO
 
+##### SimVODIS Simultaneous Visual Odometry, Object Detection, and Instance Segmentation
+https://github.com/Uehwan/SimVODIS
+
 ### Visual Inertial odometry
 
 ##### Kalibr
