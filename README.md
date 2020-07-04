@@ -148,6 +148,9 @@ with paper and video ICRA 2017 , rosbag as well.
 ##### monocular object pose SLAM
 https://github.com/shichaoy/cube_slam
 
+##### DeepFactors: Real-Time Probabilistic Dense Monocular SLAM
+https://github.com/jczarnowski/DeepFactors?fbclid=IwAR3tMyM_VisfjADs5pX3OHoxSU6w6MorupmvXZDr8c9m2MWLObdcnlBNNpg
+
 
 ## LIDAR based
 
