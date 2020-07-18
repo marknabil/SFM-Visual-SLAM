@@ -1,5 +1,9 @@
   # non visual SLAM
-  
+
+##### Efficient and Certifiably Correct Planar Graph-Based SLAM Using the Complex Number Representation
+
+https://github.com/fantaosha/CPL-SLAM
+
 ##  in python 
   
   https://github.com/vatsan/slam
