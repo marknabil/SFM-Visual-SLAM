@@ -119,6 +119,10 @@ https://github.com/raulmur/ORB_SLAM2
 its modification to work on IOS : 
 https://github.com/Thunderbolt-sx/ORB_SLAM_iOS
 
+##### ORB-SLAM3 An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM
+
+https://github.com/UZ-SLAMLab/ORB_SLAM3
+
 ##### REMODE (REgularized MOnocular Depth Estimation)
 https://github.com/uzh-rpg/rpg_open_remode ... 
 Probabilistic, Monocular Dense Reconstruction in Real Time
