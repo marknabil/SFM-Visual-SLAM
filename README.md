@@ -169,6 +169,9 @@ https://github.com/erik-nelson/blam
 https://github.com/ethz-asl/segmatch
 A 3D segment based loop-closure algorithm | ROS ready
 
+##### LIO-SAM
+https://github.com/TixiaoShan/LIO-SAM
+real-time lidar-inertial odometry
 
 ## Visual Odometry
 
