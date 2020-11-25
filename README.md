@@ -98,6 +98,9 @@ https://github.com/ethz-asl/nbvplanner
 https://github.com/ydsf16/dre_slam
 ROS kinetic, openCV 4.0, yolo v3, Ceres
 
+##### DynaSLAM: Tracking, Mapping and Inpainting in Dynamic Scenes
+https://github.com/BertaBescos/DynaSLAM 
+
 
 ### Augmented Reality
 
