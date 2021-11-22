@@ -236,6 +236,7 @@ Monocular camera + 6 DOF IMU
 
 ## SFM 
 
+
 ##### Structure from Motion (SfM) for Unordered Image Collections
 https://github.com/TheFrenchLeaf/Bundle
 
@@ -259,10 +260,11 @@ https://github.com/tinghuiz/SfMLearner
 Source material for the CVPR 2015 Tutorial: Open Source Structure-from-Motion
 https://github.com/mleotta/cvpr2015-opensfm
 
-
 ##### Unsupervised Learning of Depth and Ego-Motion from Video
 https://github.com/tinghuiz/SfMLearner
 
+##### Deep Permutation Equivariant Structure from Motion
+https://github.com/drormoran/Equivariant-SFM
 
 ## concepts in matlab 
 http://vis.uky.edu/~stewe/FIVEPOINT/
