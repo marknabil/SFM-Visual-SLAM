@@ -178,6 +178,9 @@ A 3D segment based loop-closure algorithm | ROS ready
 https://github.com/TixiaoShan/LIO-SAM
 real-time lidar-inertial odometry
 
+UV-SLAM: Unconstrained Line-based SLAM Using Vanishing Points for Structural Mapping | ICRA'22
+https://github.com/url-kaist/UV-SLAM
+
 ## Visual Odometry
 
 ##### Dense Sparse odometry
