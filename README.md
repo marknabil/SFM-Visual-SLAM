@@ -203,6 +203,9 @@ paper + pytorch code: https://github.com/Huangying-Zhan/DF-VO
 ##### SimVODIS Simultaneous Visual Odometry, Object Detection, and Instance Segmentation
 https://github.com/Uehwan/SimVODIS
 
+#### Modality-invariant Visual Odometry for Embodied Vision
+RGB only OR RGB + Depth
+https://memmelma.github.io/vot/
 
 ### Visual Inertial odometry
 
@@ -321,6 +324,10 @@ https://github.com/AutoSLAM/SLAM
 # Datasets and benchmarking
 ## Curated List of datasets: 
 https://github.com/youngguncho/awesome-slam-datasets
+
+##### igibson 
+simulation environment providing fast visual rendering and physics simulation based on Bullet
+https://svl.stanford.edu/igibson/
 
 ##### EuRoC MAV Dataset
 http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
